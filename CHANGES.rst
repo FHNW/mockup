@@ -6,6 +6,9 @@ Changelog
 
 New features:
 
+- pat-querystring: Use ``pat-date-picker`` from Patterns library instead ``mockup-patterns-pickadate`` (PLIP 2150).
+  [thet]
+
 - Structure pattern:
 
   - Make action menu bar sticky.
